@@ -1,3 +1,10 @@
+
+sort.cc : C++ code contains each sort code implementation
+
+combemp.py: python code show graph about empirical result of comb sort compared to other O(n log n) algorithm
+
+combsort_graph.png : png file result of combemp.py
+
 ran_input1000.txt : random data of length 1,000
 
 ran_input10000.txt : random data of length 10,000
